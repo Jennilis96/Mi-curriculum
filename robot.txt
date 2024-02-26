@@ -1,0 +1,8 @@
+/# Archivo robots.txt para [Mi-curriculum]
+
+User-agent: *
+Disallow: /
+
+
+User-agent: Googlebot
+Disallow: /
